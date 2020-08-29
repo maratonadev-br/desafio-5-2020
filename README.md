@@ -128,7 +128,7 @@ No caso de erro a API responde no seguinte formato:
 }
 ```
 
-Feita a requisição o bot deverá dar a resposta adequada em cada caso. Em caso de sucesso deverá informar o local onde a ATM está, seu enereço, número e cep, caso o usuário tenha escolhido sacar dentro de algum comércio, ou seja, um segmento que não seja ATM, deve o bot deve informa uma mensagem promocional sobre o lugar para o usuário. Em caso de erro na requisição, o usuário deve utilizar as mensagens de erros que a API retorna para dar o tratamento adequado.
+Feita a requisição o bot deverá dar a resposta adequada em cada caso. Em caso de sucesso deverá informar o local onde a ATM está, seu endereço, número e cep, caso o usuário tenha escolhido sacar dentro de algum comércio, ou seja, um segmento que não seja ATM, o bot deve informar uma mensagem promocional sobre o lugar para o usuário. Em caso de erro na requisição, o usuário deve utilizar as mensagens de erros que a API retorna para dar o tratamento adequado.
 
 Em resumo, seu assistente virtual precisa estar apto a receber essas três interações, adquirir as informações necessárias e fornecer as respostas adequadas. A tabela abaixo mostra o passo a passo do processo.
 
@@ -216,7 +216,7 @@ Após a realização dos testes, clique no botão no canto inferior direito para
 
 ## 6. Sobre a avaliação
 
-O sistema testará se o assistente virtual identifica e responde adequadamente as `intents` de Saudacao, Finalizacao, Saque e se a chamda de API foi implementada corretamente. Sua pontuação será uma função que relaciona se a resposta obitda contem os elementos especificados acima e a confiança que o assistente tem nela.
+O sistema testará se o assistente virtual identifica e responde adequadamente as `intents` de Saudacao, Finalizacao, Saque e se a chamada de API foi implementada corretamente. Sua pontuação será uma função que relaciona se a resposta obtida contem os elementos especificados acima e a confiança que o assistente tem nela.
 
 ## Material de apoio
 
