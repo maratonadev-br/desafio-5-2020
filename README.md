@@ -49,11 +49,11 @@ Neste desafio, você deverá utilizar a ferramenta da IBM de inteligência artif
 
 Veja no vídeo abaixo uma explicação completa dos passos necessários para resolução desse desafio.
 
-<!-- <div align="center">
-    <a href="#">
-       <img width="50%" src="./Docs/Images/tuto-02-pt.png" alt='video'>
+<div align="center">
+    <a href="https://youtu.be/cotgT-G6WRE">
+       <img width="50%" src="./doc/source/images/THUMB-TUTORIAL-5-BR.png" alt='video'>
     </a>
-</div> -->
+</div>
 
 ## 4. Desenvolvendo a solução
 
